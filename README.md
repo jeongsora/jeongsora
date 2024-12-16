@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/jeongsora"
-    width="600"
-    height="120"
+    src="https://render.gitanimals.org/lines/jeongsora?pet-id=656384650420806087"
+    width="1000"
+    height="200"
   />
 </a>
