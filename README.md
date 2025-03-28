@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jeongsora&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/jeongsora?pet-id=642615942286646828"
+    src="https://render.gitanimals.org/lines/jeongsora?pet-id=656384657395940487"
     width="1000"
     height="150"
   />
